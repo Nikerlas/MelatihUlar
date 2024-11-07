@@ -1,0 +1,14 @@
+names:
+- head
+- helmet
+- person
+nc: 3
+roboflow:
+  license: Public Domain
+  project: hard-hat-sample-i2yaq
+  url: https://app.roboflow.com/tukang/hard-hat-sample-i2yaq/2
+  version: 2
+  workspace: tukang
+test: ../test/images
+train: ../train/images
+val: ../valid/images
